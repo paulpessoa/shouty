@@ -1,5 +1,5 @@
 Feature: Hear shout
-Scenario: Listener is within range
-Given Lucy is located 15 meters from Sean
-When Sean shouts "free bagels at Sean's"
-Then Lucy hears Sean's message
+    Scenario: Listener is within range
+        Given Lucy is located 15 meterss from Sean
+        When Sean shouts "free bagels at Seans"
+        Then Lucy hears Sean's message
